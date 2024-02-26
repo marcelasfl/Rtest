@@ -1,5 +1,6 @@
 <h1 align= "center"> Projeto de Inteligência de Negócios com R </h1>
 Este projeto foi desenvolvido como parte de um curso de Inteligência de Negócios, utilizando a linguagem R para análise de dados.
+
 > :construction: Projeto em construção :construction:
 
 
