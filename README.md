@@ -14,7 +14,7 @@ Em seguida, instale o RStudio, uma interface gráfica que facilita a escrita e e
 
 # 2. Clone este repositório
 Clone este repositório para sua máquina local utilizando o seguinte comando git:
-git clone https://github.com/marcelasfl/.git](https://github.com/marcelasfl/Rtest.git
+git clone https://github.com/marcelasfl/Rtest.git
 
 # 3. Abra o projeto no RStudio
 Abra o RStudio e navegue até o diretório onde você clonou o repositório. Abra o arquivo analise.R para começar a explorar e analisar os dados.
